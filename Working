@@ -1,0 +1,7 @@
+How It Works:
+   The game will present a riddle to the user.
+   The user is prompted to answer the riddle.
+   If the answer is incorrect, the game offers a hint.
+   The user is then allowed to answer again after the hint.
+  The game asks whether the user wants to continue to the next riddle or stop.
+  The game keeps track of the score and shows it at the end.
