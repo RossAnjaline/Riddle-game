@@ -1,0 +1,7 @@
+Features:
+   A set of riddles and answers.
+   Users can try to solve each riddle.
+   If the user answers incorrectly, they can receive a hint.
+   The user can attempt to answer the riddle again after receiving a hint.
+   The game tracks the score based on correct answers.
+   The user can choose to continue to the next riddle or stop after each one.
